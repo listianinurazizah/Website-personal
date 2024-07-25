@@ -1,0 +1,163 @@
+Buyer: Listiani
+Items:
+- Perfume A ($50)
+Total: $50
+
+Buyer: Listiani
+Items:
+- Perfume A ($50)
+Total: $50
+
+Buyer: Listiani
+Address: kedungsugih
+Payment Method: Bank Transfer
+Items:
+- Perfume C ($70)
+- Perfume C ($70)
+- Perfume A ($50)
+Total: $190
+
+Buyer: april
+Address: sokatengah
+Payment Method: Credit Card
+Items:
+- Perfume Bacarat ($60)
+Total: $60
+
+Buyer: ima
+Address: bumijawa
+Payment Method: PayPal
+Items:
+- Perfume Scandal ($40)
+- Perfume Scandal ($40)
+Total: $80
+
+Buyer: Listiani
+Address: kedungsugih
+Payment Method: Bank Transfer
+Items:
+- Perfume Aigner Blue E ($30000)
+Total: $30000
+
+Buyer: april
+Address: tegal
+Payment Method: Bank Transfer
+Items:
+- Perfume Bacarat ($60000)
+Total: $60000
+
+Buyer: Listiani
+Address: tegal
+Payment Method: PayPal
+Items:
+- Perfume Aigner Blue E ($30000)
+Total: $30000
+
+Buyer: april
+Address: tegal
+Payment Method: PayPal
+Items:
+- Perfume Aigner Blue E ($30000)
+Total: $30000
+
+Pembeli: Listiani
+Alamat: tegal
+Metode Pembayaran: Cash On Delivery
+Item:
+- Perfume Scandal (Rp40.000)
+- Perfume Aigner Blue E (Rp30.000)
+- Perfume Aigner Blue E (Rp30.000)
+Total: Rp100.000
+
+Pembeli: Listiani Nurazizah
+Alamat: campurannya jangan kebanyakan
+Metode Pembayaran: Dana
+Item:
+- Perfume Aigner Blue E (Rp30.000)
+- Perfume Aigner Blue E (Rp30.000)
+- Perfume Zwitzal (Rp50.000)
+Total: Rp110.000
+
+Pembeli: Listiani
+Alamat: kedungsugih
+Email: listi@gmail.com
+No. HP: 081234567890
+Keterangan: yang wangi
+Metode Pembayaran: OVO
+Item:
+- Perfume Bacarat (Rp60.000)
+- Perfume Aigner Blue E (Rp30.000)
+Total: Rp90.000
+
+Pembeli: Listiani
+Alamat: kedungsugih
+Email: listi@gmail.com
+No. HP: 081234567890
+Keterangan: bibit semua yah
+Metode Pembayaran: Bank Transfer
+Item:
+- Perfume Aigner Blue E (Rp30.000)
+Total: Rp30.000
+
+Pembeli: Listiani
+Alamat: kedungsugih
+Email: listi@gmail.com
+No. HP: 081234567890
+Keterangan: apa yah
+Metode Pembayaran: Bank Transfer
+Item:
+- Perfume Aigner Blue E (Rp30.000)
+Total: Rp30.000
+
+Pembeli: Listiani
+Alamat: kdsgkc
+Email: vkgcsj@gmail.com
+No. HP: 081234567890
+Keterangan: shcgasugcio
+Metode Pembayaran: Kartu Kredit
+Item:
+- Perfume Aigner Blue E (Rp30.000)
+Total: Rp30.000
+
+Pembeli: Listiani
+Alamat: wfegvwsg
+Email: listi@gmail.com
+No. HP: dv bfb
+Keterangan: fvxbf
+Metode Pembayaran: Dana
+Item:
+- Perfume Bacarat (Rp60.000)
+Total: Rp60.000
+
+Pembeli: fandi
+Alamat: Desa Kertaharja Kec KRAMAT
+Email: vkgcsj@gmail.com
+No. HP: 087880770405
+Keterangan: PAKET MINTA DIBUNGKUS BUBLE WRAP YA KAK...
+Metode Pembayaran: OVO
+Item:
+- Perfume Kenzo Bali (Rp50.000)
+Total: Rp50.000
+
+Pembeli: Listiani
+Alamat: kedungsugih
+Email: listi@gmail.com
+No. HP: 081234567890
+Keterangan: alcohol jangan kebanyakan
+Metode Pembayaran: Dana
+Item:
+- Perfume Dunhil Blue (Rp50.000)
+Total: Rp50.000
+
+Pembeli: Listiani Nurazizah
+Alamat: Desa. Kedungsugih Kec.Pagerbarang
+Email: listi@gmail.com
+No. HP: 081234567890
+Keterangan: Alkoholnya jangan terlalu banyak
+Metode Pembayaran: Dana
+Item:
+- Perfume Bacarat (Rp60.000)
+- Perfume Gatsby (Rp50.000)
+- Perfume Harajuku (Rp50.000)
+Total: Rp160.000
+
